@@ -1,4 +1,4 @@
-# NeuroSafetyGuard 🧠🦺
+# NeuroSafetyGuard
 
 > **Real-Time Cognitive Overload Detection in Construction Workers via Multimodal fNIRS–EEG Fusion and Adaptive Safety Interventions**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔬 Research Statement
+## Research Statement
 
 **"Can fused neurophysiological signals (fNIRS + EEG) encoded through a lightweight temporal attention network enable real-time, personalized cognitive overload detection in construction workers, and can that detection trigger closed-loop adaptive safety interventions that measurably reduce unsafe behavior in high-pressure VR-simulated work zones?"**
 
@@ -22,7 +22,7 @@ Fusing the complementary strengths of fNIRS (hemodynamic, higher spatial resolut
 
 ---
 
-## 📚 Literature Survey
+## Literature Survey
 
 ### 1. Cognitive States & Construction Safety
 
@@ -64,7 +64,7 @@ Fusing the complementary strengths of fNIRS (hemodynamic, higher spatial resolut
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -117,7 +117,7 @@ Fusing the complementary strengths of fNIRS (hemodynamic, higher spatial resolut
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 neuro_safety_guard/
@@ -158,7 +158,7 @@ neuro_safety_guard/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone and install
@@ -181,7 +181,7 @@ pytest tests/
 
 ---
 
-## 📊 Expected Outcomes
+## Expected Outcomes
 
 | Metric | Target |
 |--------|--------|
@@ -192,7 +192,7 @@ pytest tests/
 
 ---
 
-## 🤝 Alignment with Dr. Pooladvand's Research Program
+## Alignment with Dr. Pooladvand's Research Program
 
 This project directly extends the **fNIRS-based mental load classification** work (Pooladvand et al., 2024) by:
 1. **Adding EEG modality** via cross-modal attention fusion
@@ -202,7 +202,7 @@ This project directly extends the **fNIRS-based mental load classification** wor
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use this work, please cite:
 ```bibtex
@@ -215,7 +215,3 @@ If you use this work, please cite:
 ```
 
 ---
-
-## 📬 Contact
-
-For questions about the research direction, contact Dr. Shiva Pooladvand at [shiva.pooladvand@asu.edu](mailto:shiva.pooladvand@asu.edu).
